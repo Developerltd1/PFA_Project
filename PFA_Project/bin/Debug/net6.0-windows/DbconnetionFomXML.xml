@@ -1,0 +1,3 @@
+<ConnectionSettings>
+	<ConnectionString>Data Source=.;Initial Catalog=PFAdb;Integrated Security=True</ConnectionString>
+</ConnectionSettings>
